@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tableau on Blogophonic</title>
+    <link>/categories/tableau/</link>
+    <description>Recent content in Tableau on Blogophonic</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 24 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/categories/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dashboard Interativo - Análise de Performance de Vendas e Clientes | Tableau</title>
+      <link>/blog/sales-dashboard/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/blog/sales-dashboard/</guid>
+      <description>&lt;p&gt;Como parte da minha jornada de aprimoramento em Análise de Dados, desenvolvi um dashboard completo e interativo no Tableau, seguindo um estudo de caso proposto no canal Data With Baara. O projeto consistia em criar duas visualizações principais: uma voltada para Performance de Vendas e outra para Análise de Clientes, com foco em atender às necessidades de gestores e executivos da área comercial.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-visualize-o-dashboard-interativo&#34;&gt;&lt;a href=&#34;https://public.tableau.com/shared/6YX7KRMHD?:display_count=n&amp;amp;:origin=viz_share_link&#34;&gt; 🔗 Visualize o Dashboard Interativo&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/blog/assets/dashboard_preview.png&#34; alt=&#34;Preview do dashboard&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alis Frentzel on Blogophonic</title>
+    <link>/</link>
+    <description>Recent content in Alis Frentzel on Blogophonic</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CV</title>
+      <link>/elements/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>/elements/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prazer, Alis</title>
+      <link>/about/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>&lt;p&gt;Sou uma profissional com formação em Biotecnologia e atualmente cursando Big Data e Inteligência Analítica, com mais de 2 anos de experiência em análise estatística aplicada à pesquisa acadêmica. Atuei diretamente em projetos científicos, transformando dados em respostas de hipóteses científicas.&lt;/p&gt;&#xA;&lt;p&gt;Quero usar minha experiência com estatística e pesquisa para contribuir em ambientes corporativos, apoiando projetos que melhorem processos, produtos e, principalmente, a vida das pessoas.&lt;/p&gt;&#xA;&lt;p&gt;&#xA;  &lt;a href=&#34;alis-cv.pdf&#34; download&#xA;     class=&#34;link dim br2 ph3 pv2 white inline-flex items-center&#34;&#xA;     style=&#34;background-color: #3dcfc2;&#34;&gt;&#xA;     ⬇️ Faça download do meu currículo&#xA;  &lt;/a&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dashboard Interativo - Análise de Performance de Vendas e Clientes | Tableau</title>
+      <link>/blog/sales-dashboard/</link>
+      <pubDate>Thu, 24 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>/blog/sales-dashboard/</guid>
+      <description>&lt;p&gt;Como parte da minha jornada de aprimoramento em Análise de Dados, desenvolvi um dashboard completo e interativo no Tableau, seguindo um estudo de caso proposto no canal Data With Baara. O projeto consistia em criar duas visualizações principais: uma voltada para Performance de Vendas e outra para Análise de Clientes, com foco em atender às necessidades de gestores e executivos da área comercial.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-visualize-o-dashboard-interativo&#34;&gt;&lt;a href=&#34;https://public.tableau.com/shared/6YX7KRMHD?:display_count=n&amp;amp;:origin=viz_share_link&#34;&gt; 🔗 Visualize o Dashboard Interativo&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;img src=&#34;/blog/assets/dashboard_preview.png&#34; alt=&#34;Preview do dashboard&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 25 Feb 2019 13:38:41 -0600</pubDate>
+      <guid>/contact/</guid>
+      <description>&lt;p&gt;** Contact page don&amp;rsquo;t contain a body, just the front matter above.&#xA;See form.html in the layouts folder **&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
